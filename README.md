@@ -1,6 +1,8 @@
 # CS143-SP26-P2
 Course: CS143 – Artificial Intelligence (Spring 2026)
+
 Instructor: Md Alimoor Reza, Assistant Professor of Computer Science, Drake University
+
 Due: Thursday, February 26, 11:59 PM
 Total: 10 points
 
