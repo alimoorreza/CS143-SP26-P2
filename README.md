@@ -14,4 +14,5 @@ The goal of this assignment is to solve an AI problem using search techniques su
   <img src="mapbot.png" alt="Agent on Open Street Map" width="200"/>
 </p>
 You will complete the implementation of different blind search strategies, including <b>BFS, DFS,</b>b> and <b>UCS</b>. Note that you are provided with an implementation that is essentially Breadth-First Search. Your task is to extend this implementation to support the remaining search strategies and finish the associated tasks.
-Your implementation may rely on several useful data structures, such as <i>deque, set</i>, and <i>priority queue</i>. In class, we have already practiced the basic functionalities of these data structures.
+Your implementation may rely on several useful data structures, such as <i>deque, set</i>, and <i>priority queue</i>. In class, we have already practiced the basic functionalities of these data structures. Here are links to the scripts we did in class which might be helpful
+* [Priority Queue](https://github.com/alimoorreza/CS143-sp26-notes/blob/main/priority_queue_python_datastructure_reza_solution.ipynb)
