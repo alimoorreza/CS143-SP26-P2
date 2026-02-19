@@ -1,5 +1,10 @@
 # CS143-SP26-P2: AI Problem Solving with Blind Search Algorithms
 
+## Course: CS143 - Artificial Intelligence (Spring 2026)
+## Instructor: Md Alimoor Reza, Assistant Professor of Computer Science, Drake University
+## Due: Thursday, February 26, 11:59 PM
+## Total: 10 points
+
 The goal of this assignment is to solve an AI problem using search techniques such as Breadth-First Search (BFS), Depth-First Search (DFS), and Uniform-Cost Search (UCS). Similar to your previous project, you will work with an AI agent that interacts with a simulated street network environment built on a real-world street map.
 
 <p align="center">
